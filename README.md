@@ -1,15 +1,15 @@
 ### Bonsoir, moi c'est Andréa 👋
 
-## Je suis un étudiante en informatique et un passionnée du développement mobile!
+## Je suis un étudiante en informatique et une passionnée du développement mobile!
 
 - 🌱 Actuellement en Master 2 Génie Logiciel
 - 🥅 2021 Goals: Obtenir un stage afin de valider ma dernière année de master et améliorer mes compétences  en développement logiciel
 
 ### Connect with me:
 
-[<img src="linkedin.svg"/>][linkedin]
+[<img src="linkedin.svg"/>](https://www.linkedin.com/in/andréa-pires-9a204b224)
 
-[<img src="youtube.svg"/>][youtube]
+[<img width="26px" src="youtube.svg"/>](https://www.youtube.com/channel/UCrceAEvyooxE27kjNPAoJeQ)
 
 <br />
 
@@ -32,5 +32,3 @@
 
 <br />
 <br />
-[youtube]: https://www.youtube.com/channel/UCrceAEvyooxE27kjNPAoJeQ
-[linkedin]: https://www.linkedin.com/in/andréa-pires-9a204b224
